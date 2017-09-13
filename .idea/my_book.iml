@@ -15,6 +15,8 @@
     <orderEntry type="jdk" jdkName="Python 3.5.2 virtualenv at ~/.virtualenvs/django" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="my_blog_tutorial-master" />
+    <orderEntry type="module" module-name="xiaojiayu" />
+    <orderEntry type="module" module-name="spider-master" />
   </component>
   <component name="TemplatesService">
     <option name="TEMPLATE_CONFIGURATION" value="Django" />

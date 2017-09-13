@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$USER_HOME$/my_blog_tutorial-master/.idea/my_blog_tutorial-master.iml" filepath="$USER_HOME$/my_blog_tutorial-master/.idea/my_blog_tutorial-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/my_book.iml" filepath="$PROJECT_DIR$/.idea/my_book.iml" />
+      <module fileurl="file://$USER_HOME$/spider-master/.idea/spider-master.iml" filepath="$USER_HOME$/spider-master/.idea/spider-master.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/xiaojiayu/.idea/xiaojiayu.iml" filepath="$USER_HOME$/PycharmProjects/xiaojiayu/.idea/xiaojiayu.iml" />
     </modules>
   </component>
 </project>
